@@ -8,4 +8,4 @@ modify objects in the picture.
 Use a 2d array of characters to store the picture.
 Write a function to display the picture.
 
-this is my advanced c programming project help me with the code for this 
+this is my advanced c programming project help me with the code for this.
