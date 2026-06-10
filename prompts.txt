@@ -1,4 +1,4 @@
-Problem Statement: Write a 2d graphics editor using * and  _.
+Problem Statement: Write a 2d graphics editor using * and _.
 
 Write functions to draw a circle, rectangle, line, and triangle.
 You should be able to
